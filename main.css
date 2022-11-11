@@ -1,6 +1,6 @@
 body {
   width: 100vw;
-  height: 100vh;
+  height: auto;
   background: rgb(0, 35, 36);
   background: linear-gradient(
     90deg,
